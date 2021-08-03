@@ -1,6 +1,6 @@
 ## Hi, I'm Yusuf 👋
 
-I'm a 24-year-old senior or master or whatever you call it front-end developer.
+I'm a senior or master or whatever you call it front-end developer.
 
 Born & raised in Turkey / Ankara, I'm genuinely inspired by creators of my workspace like HTML, CSS, and JavaScript.
 
